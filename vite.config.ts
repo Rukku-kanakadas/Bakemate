@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/backery/',  // 👈 Add this line to set your repo name
+  base: '/Bakemate/',  // 👈 Add this line to set your repo name
   plugins: [react()],
   optimizeDeps: {
     exclude: ['lucide-react'],
